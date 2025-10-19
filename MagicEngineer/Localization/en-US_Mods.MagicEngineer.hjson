@@ -1,0 +1,8 @@
+DamageClasses.MagicEngineer.DisplayName: engineer damage
+
+Items: {
+	WoodenStaff: {
+		DisplayName: Wooden Staff
+		Tooltip: Basic Staff
+	}
+}
