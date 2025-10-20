@@ -1,8 +1,23 @@
-DamageClasses.MagicEngineer.DisplayName: engineer damage
+DamageClasses: {
+	MagicEngineer.DisplayName: engineer damage
+	Engineer.DisplayName: Engineer
+}
+
+Weapons: {
+	WoodenStaff: {
+		DisplayName: Wooden Staff
+		Tooltip: Basic Staff
+	}
+}
+
+Projectiles: {
+	AmethystBolt.DisplayName: Amethyst Bolt
+	GreenProj.DisplayName: Green Proj
+}
 
 Items: {
 	WoodenStaff: {
 		DisplayName: Wooden Staff
-		Tooltip: Basic Staff
+		Tooltip: ""
 	}
 }
